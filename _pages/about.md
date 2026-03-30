@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "About"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
 ## About Me
 
 I am a researcher at Shenzhen University, focusing on medical image analysis and ultrasound imaging. My research lies at the intersection of:
@@ -7,7 +16,7 @@ I am a researcher at Shenzhen University, focusing on medical image analysis and
 - Foundation models for medical vision
 - Long-tailed and multi-label learning
 
-🔥 **Recent Work**
+**Recent Work**
 - ICLR 2026: *Maximizing Incremental Information Entropy for Contrastive Learning (IE-CL)*
 
 ---
@@ -20,7 +29,7 @@ My goal is to develop clinically grounded and scalable AI systems for medical im
 
 ## Selected Topics
 
-- Ultrasound Foundation Models  
-- Contrastive Learning Theory  
-- Medical Vision-Language Models  
-- Long-tailed Recognition in Clinical Data  
+- Ultrasound Foundation Models
+- Contrastive Learning Theory
+- Medical Vision-Language Models
+- Long-tailed Recognition in Clinical Data
